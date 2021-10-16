@@ -1,0 +1,22 @@
+[
+    {
+        "id" : 1,
+        "heading" : "Courses",
+        "description" : "This is a very good course"
+    },
+    {
+        "id" : 2,
+        "heading" : "Course2",
+        "description" : "This is a very good course"
+    },
+    {
+        "id" : 3,
+        "heading" : "Course 3",
+        "description" : "This is a very good course"
+    },
+    {
+        "id" : 4,
+        "heading" : "Courses 4",
+        "description" : "This is a very good course"
+    }
+]
